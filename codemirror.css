@@ -2,13 +2,13 @@
 
 .CodeMirror {
   /* Set height, width, borders, and global font properties here */
-  height: 300px;
-  color: #F0F0F8;
-  direction: ltr;
-  font-weight: 100;
-  font-size: 16px;
-  letter-spacing: 1px;
-  line-height: 19px;
+    height: 300px;
+    color: #F0F0F8;
+    direction: ltr;
+    font-weight: 100;
+    font-size: 18px;
+    font-family: monospace;
+    line-height: 24px;
 }
 
 /* PADDING */
