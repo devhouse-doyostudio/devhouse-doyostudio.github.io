@@ -2,7 +2,7 @@
 
 .CodeMirror {
   /* Set height, width, borders, and global font properties here */
-  position: absolute!absolute;
+  position: absolute!important;
   top: 0;
   left: 0;
   right: 0;
