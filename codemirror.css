@@ -10,9 +10,9 @@
   color: #F0F0F8;
   direction: ltr;
   font-weight: 100;
-  font-size: 16px;
+  font-size: 12px;
   font-family: 'Roboto Mono', monospace;
-  line-height: 22px;
+  line-height: 1.25em;
 }
 
 /* PADDING */
