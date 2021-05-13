@@ -4,7 +4,7 @@
     line-height: 1.4 !important;
     position: fixed !important;
     z-index: 20 !important;
-    top: 0 !important;
+    bottom: 0 !important;
     left: 0 !important;
     width: 100% !important;
     height: 100% !important;
@@ -176,13 +176,13 @@
     align-items: center !important;
     -webkit-box-pack: center !important;
     -ms-flex-pack: center !important;
-    justify-content: center !important
+    justify-content: flex-start !important
 }
 
 #iubenda-cs-banner.iubenda-cs-top {
     -webkit-box-align: start !important;
     -ms-flex-align: start !important;
-    align-items: flex-start !important
+    align-items: flex-end !important
 }
 
 #iubenda-cs-banner.iubenda-cs-bottom {
@@ -221,21 +221,21 @@
 }
 
 #iubenda-cs-banner.iubenda-cs-slidein.iubenda-cs-top .iubenda-cs-container {
-    -webkit-transform: translateY(-48px) !important;
-    -ms-transform: translateY(-48px) !important;
-    transform: translateY(-48px) !important
+    -webkit-transform: translateX(-48px) !important;
+    -ms-transform: translateX(-48px) !important;
+    transform: translateX(-48px) !important
 }
 
 #iubenda-cs-banner.iubenda-cs-slidein.iubenda-cs-bottom .iubenda-cs-container {
-    -webkit-transform: translateY(48px) !important;
-    -ms-transform: translateY(48px) !important;
-    transform: translateY(48px) !important
+    -webkit-transform: translateX(48px) !important;
+    -ms-transform: translateX(48px) !important;
+    transform: translateX(48px) !important
 }
 
 #iubenda-cs-banner.iubenda-cs-slidein.iubenda-cs-visible .iubenda-cs-container {
-    -webkit-transform: translateY(0) !important;
-    -ms-transform: translateY(0) !important;
-    transform: translateY(0) !important
+    -webkit-transform: translateX(0) !important;
+    -ms-transform: translateX(0) !important;
+    transform: translateX(0) !important
 }
 
 #iubenda-cs-banner .iubenda-cs-container {
@@ -760,9 +760,9 @@
 .iubenda-tp-btn[data-tp-float][data-tp-anchored]:not([data-tp-hover]):not([data-tp-label])[data-tp-float=center-left], .iubenda-tp-btn[data-tp-float][data-tp-anchored]:not([data-tp-hover]):not([data-tp-label])[data-tp-float=center-right], .iubenda-tp-btn[data-tp-float][data-tp-anchored][data-tp-hover][data-tp-float=center-left], .iubenda-tp-btn[data-tp-float][data-tp-anchored][data-tp-hover][data-tp-float=center-right] {
     margin: 0 !important;
     top: 75% !important;
-    -webkit-transform: translateY(-50%) !important;
-    -ms-transform: translateY(-50%) !important;
-    transform: translateY(-50%) !important
+    -webkit-transform: translateX(-50%) !important;
+    -ms-transform: translateX(-50%) !important;
+    transform: translateX(-50%) !important
 }
 
 .iubenda-tp-btn[data-tp-float][data-tp-anchored]:not([data-tp-hover]):not([data-tp-label])[data-tp-float=center-left], .iubenda-tp-btn[data-tp-float][data-tp-anchored][data-tp-hover][data-tp-float=center-left] {
@@ -792,9 +792,9 @@
 
 .iubenda-tp-btn[data-tp-float][data-tp-anchored]:not([data-tp-hover])[data-tp-label][data-tp-float=center-left] {
     left: 0 !important;
-    -webkit-transform: translateY(-50%) rotate(90deg) !important;
-    -ms-transform: translateY(-50%) rotate(90deg) !important;
-    transform: translateY(-50%) rotate(90deg) !important;
+    -webkit-transform: translateX(-50%) rotate(90deg) !important;
+    -ms-transform: translateX(-50%) rotate(90deg) !important;
+    transform: translateX(-50%) rotate(90deg) !important;
     -webkit-transform-origin: left bottom !important;
     -ms-transform-origin: left bottom !important;
     transform-origin: left bottom !important
@@ -802,9 +802,9 @@
 
 .iubenda-tp-btn[data-tp-float][data-tp-anchored]:not([data-tp-hover])[data-tp-label][data-tp-float=center-right] {
     right: 0 !important;
-    -webkit-transform: translateY(-50%) rotate(-90deg) !important;
-    -ms-transform: translateY(-50%) rotate(-90deg) !important;
-    transform: translateY(-50%) rotate(-90deg) !important;
+    -webkit-transform: translateX(-50%) rotate(-90deg) !important;
+    -ms-transform: translateX(-50%) rotate(-90deg) !important;
+    transform: translateX(-50%) rotate(-90deg) !important;
     -webkit-transform-origin: right bottom !important;
     -ms-transform-origin: right bottom !important;
     transform-origin: right bottom !important
