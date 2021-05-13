@@ -496,7 +496,7 @@
 
 @media (min-width: 992px) {
     #iubenda-cs-banner.iubenda-cs-default-floating .iubenda-cs-container {
-        width: 992px !important
+        width: 629px !important
     }
 }
 
@@ -544,12 +544,12 @@
 #iubenda-cs-banner.iubenda-cs-default-floating .iubenda-cs-content {
     -webkit-box-shadow: 0 8px 48px rgba(0, 0, 0, .15) !important;
     box-shadow: 0 8px 48px rgba(0, 0, 0, .15) !important;
-    padding: 8px !important
+    padding: 38px 32px !important
 }
 
 @media (min-width: 992px) {
     #iubenda-cs-banner.iubenda-cs-default-floating .iubenda-cs-content {
-        border-radius: 4px !important;
+        border-radius: 20px !important;
         margin: 16px !important
     }
 }
