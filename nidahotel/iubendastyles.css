@@ -494,9 +494,14 @@
     margin: 8px !important
 }
 
+#iubenda-cs-paragraph {
+    font-size: 12px;
+    line-height: 15px;
+}
+
 @media (min-width: 992px) {
     #iubenda-cs-banner.iubenda-cs-default-floating .iubenda-cs-container {
-        width: 629px !important
+        width: 661px !important
     }
 }
 
