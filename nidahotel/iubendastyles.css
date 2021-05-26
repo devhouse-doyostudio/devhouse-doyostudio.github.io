@@ -861,7 +861,7 @@
     opacity: 1
 }
 
-#iubenda-iframe #iubenda-iframe-popup #iubenda-iframe-content .iubenda-modal-navigation:not(.iubenda-modal-navigation-brand) {
+.landing #iubenda-iframe #iubenda-iframe-popup #iubenda-iframe-content .iubenda-modal-navigation:not(.iubenda-modal-navigation-brand) {
     background: #382F2D !important;
 }
 
