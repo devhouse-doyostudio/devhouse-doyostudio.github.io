@@ -864,3 +864,103 @@
 #iubenda-iframe #iubenda-iframe-content .iubenda-modal-navigation:not(.iubenda-modal-navigation-brand) {
     background: #382F2D !important;
 }
+
+#purposes-container {
+    background: #382F2D !important;
+}
+
+#purposes-container .purposes-header-title {
+    font-family: SangBleu sans-serif !important;
+    color: #FAEDCD !important;
+}
+
+#purposes-container .purposes-header-text {
+    font-family: 'questa-sans' !important;
+    color: #FAEDCD !important;
+}
+
+#purposes-container .purposes-buttons {
+    background: #382F2D !important;
+}
+
+#purposes-container .purposes-item-header {
+    background: #382F2D !important;
+}
+
+#purposes-container .purposes-items {
+    background: #382F2D !important;
+}
+
+#iubenda-iframe .iubenda-iframe-footer.iubenda-iframe-footer-absolute {
+    background: #382F2D !important;
+}
+
+#iubenda-iframe .iubenda-modal-navigation:not(.iubenda-modal-navigation-brand) {
+    color: #FAEDCD !important;
+}
+
+#purposes-container .purposes-btn-stroked {
+    border: 1px solid #FAEDCD !important;
+    color: #FAEDCD !important;
+    font-family: 'questa-sans' !important;
+    
+    &:hover {
+        border: 1px solid #FAEDCD!important;
+    }
+}
+
+#iubenda-iframe .purposes-top-right .purposes-btn-cp {
+    border: 1px solid #FAEDCD !important;
+    color: #FAEDCD !important;
+}
+
+#iubenda-iframe .purposes-top-right .purposes-btn-cp span {
+    font-family: 'questa-sans' !important;
+}
+
+#iubenda-iframe .iubenda-modal-navigation:not(.iubenda-modal-navigation-brand) {
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+#purposes-container .purposes-item-title label {
+    font-family: 'questa-sans' !important;
+    color: #FAEDCD !important;
+}
+
+#purposes-container .purposes-item-title-btn {
+    font-family: 'questa-sans' !important;
+    color: #FAEDCD !important;
+}
+
+#iubenda-iframe .iubenda-iframe-top-container.bottom-border-radius {
+    border-radius: 0px !important;
+}
+
+#iubenda-iframe .iubenda-iframe-top-container.bottom-border-radius {
+    border-radius: 0px !important;
+    background: #382F2D !important;
+}
+
+#purposes-container .purposes-item-shown .purposes-item-body {
+    font-family: 'questa-sans' !important;
+    color: #FAEDCD !important;
+}
+
+#purposes-container .purposes-buttons button.purposes-btn-reject {
+    font-family: 'questa-sans' !important;
+    background-color: #FAEDCD !important;
+}
+
+#purposes-container .purposes-buttons button.purposes-btn-accept {
+    font-family: 'questa-sans' !important;
+    background-color: #FAEDCD !important;
+    color: #382F2D !important;
+}
+
+#iubenda-iframe #iubFooterBtnContainer button {
+    color: #382F2D!important;
+    background-color: #FAEDCD !important;
+    font-family: 'questa-sans' !important;
+}
+
