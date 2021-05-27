@@ -581,15 +581,19 @@
 }
 
 #iubenda-cs-banner .iubenda-cs-opt-group button {
-    background-color: rgba(255, 255, 255, 0);
+    background-color: transparent;
     color: #FAEDCD;
-    border: 1px solid #FAEDCD;
+    border: none;
 }
 
 #iubenda-cs-banner .iubenda-cs-opt-group button.iubenda-cs-btn-primary {
     background-color: transparent;
     color: #FAEDCD;
     border: none;
+    
+    background-color: rgba(255, 255, 255, 0);
+    color: #FAEDCD;
+    border: 1px solid #FAEDCD;
 }
 
 .iubenda-tp-btn:not([data-tp-nostyle]) {
